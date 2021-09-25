@@ -28,6 +28,10 @@ samples, guidance on mobile development, and a full API reference.
 5. Run `main.dart` and feel the power ⚡️
 
 # Demo
+<p align="left">
+<img title="Video Recording" href="https://drive.google.com/file/d/1itqhKK-ZG1j2r_kOSNBY8IrbIC1DSs-k/view?usp=sharing" src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white">
+<img title="Video Recording" href="https://drive.google.com/file/d/1itqhKK-ZG1j2r_kOSNBY8IrbIC1DSs-k/view?usp=sharing" src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white"></img>
+
 <p align="center">
 <img title="UI/UX iOS" src="assets/readme/ui.jpg"></img>
 
